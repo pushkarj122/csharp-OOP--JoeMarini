@@ -1,0 +1,69 @@
+# Visual Studio and Rider settings
+.vs/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# User-specific settings
+*.user
+*.rsuser
+*.suo
+*.psess
+*.pdb
+*.sln.dotsettings
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider
+.idea/
+*.iml
+
+# ASP.NET temp files
+**/Properties/launchSettings.json
+
+# Logs
+logs/
+*.log
+*.tlog
+
+# Coverage and testing
+TestResults/
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.info
+lcov-report/
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.designer.cs
+
+# Entity Framework Migrations
+Migrations/
+
+# Environment settings
+.env
+.env.local
+
+# Mac and Linux system files
+.DS_Store
+*.swp
+Thumbs.db
